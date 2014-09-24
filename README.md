@@ -1,4 +1,4 @@
 playground
 ==========
 
-just an area for trying stuff out
+An area for experimenting with Github
